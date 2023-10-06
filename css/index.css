@@ -1,0 +1,553 @@
+.test1 ul li a {
+    color: black !important;
+
+}
+
+.test2 {
+    padding: 30px !important;
+    transition: 1s;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.test2:hover {
+    color: #B08EAD !important;
+}
+
+.test3 {
+    padding: 20px !important;
+}
+
+.test4 {
+    margin-left: -200px !important;
+}
+
+
+.test5 {
+    color: #4b3049 !important;
+    text-shadow: 3px 3px #B08EAD !important;
+    font-size: 20px !important;
+    font-weight: 700 !important;
+
+}
+
+
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+    background-color: #B08EAD;
+
+}
+
+.dropdown>.dropdown-toggle:active {
+    /*Without this, clicking will make it sticky*/
+    pointer-events: none;
+}
+
+
+
+.test7 img {
+    width: 800px;
+    height: 650px;
+}
+
+.test7 h1 {
+    font-size: 80px;
+    color: #4b3049;
+}
+
+.test7 p {
+    font-size: 22px;
+    color: #795376;
+    font-weight: 450;
+
+}
+
+.test8 {
+    margin-top: 200px;
+}
+
+.test8 button {
+    color: white;
+    background-color: #B08EAD;
+    padding: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    transition: 1s;
+}
+
+.test8 button:hover {
+    color: #B08EAD;
+    background-color: white;
+    border: 2px solid #B08EAD;
+}
+
+
+
+.aasi {
+    background-image: url('../img/product_overlay.png.webp');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: -100px !important;
+    width: 300%;
+
+}
+
+.test9 img {
+    width: 100%;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+.test9 {
+    margin-top: 300px;
+}
+
+.akkk {
+    margin-top: 150px !important;
+}
+
+.test9 p {
+    font-size: 20px !important;
+    margin-top: 50px;
+    font-weight: 500;
+    color: #B08EAD;
+}
+
+.test9 h1 {
+    font-size: 35px;
+    line-height: 1.5;
+    color: #4b3049;
+
+}
+
+.test9 button {
+    color: #B08EAD;
+    background-color: white;
+    border: 2px solid #B08EAD;
+    margin-top: 50px;
+    padding: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    transition: 1s;
+}
+
+.test9 button:hover {
+    color: white;
+    background-color: #B08EAD;
+
+}
+
+.test10 {
+    width: 100%;
+    margin-left: -100px !important;
+    margin-top: 30px;
+}
+
+.aasi1 {
+    background-image: url('../img/product_overlay.png.webp');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 300%;
+}
+
+.test13 h3 {
+    color: #4b3049;
+    font-size: 25px;
+    margin-top: 15px;
+    transition: 1s;
+}
+
+.test13 h3:hover {
+    color: #795376;
+}
+
+.test13 p {
+    color: #4b3049 !important;
+    font-size: 20px;
+}
+
+.test12 {
+    width: 100%;
+    position: absolute;
+    background-color: #F4EDF2 !important;
+    height: 950px;
+    margin-top: 200px;
+}
+
+.test12 h1 {
+    position: relative;
+    margin-top: 120px;
+    font-weight: 700;
+    color: #4b3049;
+}
+
+.test12 img {
+    width: 100%;
+}
+
+.test14 {
+    background: transparent !important;
+    border: none !important;
+}
+
+.test15 {
+    width: 100%;
+    margin-top: 1150px;
+    background-color: #B08EAD;
+    height: 400px;
+}
+
+.test16 p {
+    font-size: 35px;
+    font-weight: 500;
+    color: white;
+}
+
+.test16 h5 {
+    color: white;
+}
+
+.test17 {
+    margin-top: 80px;
+}
+
+.test18 {
+    background: transparent !important;
+    border: none !important;
+}
+
+.test18 img {
+    width: 100px;
+}
+
+.slick-slide img {
+    display: unset !important;
+    ;
+}
+
+.slick-next {
+    margin-right: 20px !important;
+}
+
+.slick-pre {
+    margin-left: 20px !important;
+}
+
+.slick-next:before,
+.slick-prev:before {
+    font-size: 30px !important;
+    padding: 10px;
+    border-radius: 50px;
+}
+
+.test19 {
+    margin-top: 150px;
+}
+
+.test19 h1 {
+    color: #4b3049;
+}
+
+.test19 p {
+    color: black;
+    font-weight: 350;
+}
+
+.test20 {
+    margin-top: 100px;
+}
+
+.test20 h3 {
+    font-size: 20px;
+    color: #4b3049;
+    margin-top: 20px;
+}
+
+.test21 {
+    border: 1px solid #4b3049 !important;
+    box-shadow: 0px 0px 5px 5px #F4EDF2;
+    transition: 1s;
+}
+
+.test21:hover {
+    box-shadow: 0px 0px 5px 5px #795376;
+}
+
+.test22 {
+    background-color: #4b3049;
+    margin-top: 200px;
+    height: 550px;
+}
+
+.test22 h1 {
+    margin-top: 180px;
+    color: white;
+}
+
+.test22 p {
+    color: white;
+    margin-top: 20px;
+}
+
+.test22 input {
+    background: transparent;
+    border-radius: 50px;
+    margin-top: 50px;
+    width: 80%;
+    margin-left: 10%;
+    padding: 20px;
+
+}
+
+.test22 ::placeholder {
+    color: white !important;
+}
+
+.test22 button {
+    margin-left: 435px;
+    margin-top: -95px;
+    border-radius: 50px;
+    padding: 15px;
+    padding-left: 35px;
+    padding-right: 35px;
+    background-color: #B08EAD;
+    color: white;
+    transition: 1s;
+}
+
+.test22 button:hover {
+    background-color: white;
+    color: #B08EAD;
+
+}
+
+.test23{
+    padding: 70px !important;
+}
+
+.test24{
+    padding: 20px !important;
+    font-size: 20px;
+    text-align: center;
+}
+.test24:hover{
+    opacity: 0.5;
+}
+.test25{
+    padding: 17px !important;
+    border: 1px solid #4b3049;
+    border-radius: 50px;
+    margin: 3px;
+    background-color: #4b3049;
+    transition: 1s;
+    text-align: center;
+}
+
+.test25 i{
+    color: white !important;
+}
+.test25:hover{
+    opacity: 0.5;
+}
+.test27{
+    background-color: #F4EDF2;
+    height: 100px;
+}
+.test28 h3,.test28 p,.test28 span{
+    font-size: 15px;
+    margin-top: 50px !important;
+    color: #4b3049;
+}
+.test29 {
+    display: flex;
+}
+.test28 span{
+    margin-left: 60px;
+}
+
+
+@media screen and (max-width:700px) {
+
+    /* .navbar-toggler{
+        margin-top: -40px;
+        margin-left: -10px;
+    } */
+
+
+    .test4 {
+        margin-left: 0px !important;
+    }
+
+    .test7 img {
+        width: 100%;
+        height: 100%;
+        margin-top: 20px;
+    }
+
+    .test8 {
+        margin-top: 20px;
+    }
+
+    .test7 h1 {
+        font-size: 30px;
+    }
+
+    .test7 p {
+        font-size: 22px;
+    }
+
+    .test8 button {
+        padding: 10px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .test9 {
+        margin-top: 100px;
+    }
+
+    .test9 button {
+        padding: 10px;
+        padding-left: 20px;
+        padding-right: 20px;
+        margin-top: 10px;
+    }
+
+    .aasi {
+        width: 60% !important;
+        margin-left: 20px !important;
+    }
+
+    .test9 img {
+        width: 100%;
+        margin-left: 50px;
+        margin-top: 60px;
+    }
+
+    .test9 h1 {
+        font-size: 23px;
+
+    }
+
+    .aasi1 {
+        position: absolute !important;
+        width: 60% !important;
+        margin-left: 80px !important;
+
+    }
+
+    .test10 {
+        width: 100%;
+        margin-left: -50px !important;
+        margin-top: 60px;
+    }
+
+    .test11 {
+        position: relative;
+        margin-top: 220px;
+    }
+
+    .test12 h1 {
+        margin-top: 50px;
+        font-size: 30px;
+    }
+
+    .test12 {
+        margin-top: 50px;
+        height: 2400px;
+    }
+
+    .test15 {
+        margin-top: 2450px;
+        height: 407px;
+    }
+
+    .slick-next {
+        right: -10px !important;
+    }
+
+    .test16 p {
+        font-size: 16px !important;
+    }
+
+    .test19 {
+        margin-top: 60px;
+    }
+
+    .test19 h1 {
+        font-size: 1.5rem;
+    }
+
+    .test19 p {
+        font-size: 15px;
+    }
+
+    .test21 {
+        margin-top: 20px !important;
+    }
+
+    .test20 {
+        margin-top: 15px;
+    }
+
+    .test22 h1 {
+        font-size: 1.5rem !important;
+        margin-top: 75px;
+    }
+
+    .test22 input {
+        margin-top: 38px;
+        width: 100%;
+        margin-left: 0%;
+        padding: 15px;
+    }
+
+    .test22 button {
+        margin-left: 212px;
+        margin-top: -86px;
+        padding: 10px;
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+
+    .test22 {
+        margin-top: 85px;
+        height: 346px;
+    }
+    .test23 {
+        padding: 60px !important;
+        margin-top: -30px;
+    }
+    .test23 img{
+        width: 30px;
+    }
+    .test24{
+        padding: 0px !important;
+        font-size: 14px;
+        margin: 20px;
+        margin-left: -10px;
+    }
+    .test25{
+        padding: 10px !important;
+        margin: 12px !important;
+    }
+    .test26{
+        flex-direction: row !important;
+    }
+    .test27{
+        height: 100%;
+    }
+    .test28 h3{
+        margin-top: 30px !important;
+    }
+    .test28 p, .test28 span{
+        margin-top: 5px !important;
+    }
+    .slick-next, .slick-prev{
+        width: 25px !important;
+    }
+
+}
